@@ -7,4 +7,15 @@ Sphinx
 coverage
 awscli
 flake8
-python-dotenv>=0.5.1
+python-dotenv
+
+numpy
+pandas
+mlflow
+scikit-learn
+docker
+xgboost
+lightgbm
+flask
+nltk
+pyyaml
